@@ -1,5 +1,7 @@
 # 🧠 Hermes AI Infrastructure Monitoring Toolkit
 
+---
+
 A minimal reference implementation of cron-based AI infrastructure monitoring using Hermes Agent.
 
 This toolkit demonstrates:
