@@ -16,13 +16,13 @@ This toolkit demonstrates:
 
 ## 🏗 Architecture
 
-Hermes Cron Scheduler  
+<pre>Hermes Cron Scheduler  
         ↓  
 External API Ingestion  
         ↓  
 Structured AI Analysis  
         ↓  
-Local Markdown Reports  
+Local Markdown Reports  </pre>
 
 ---
 
