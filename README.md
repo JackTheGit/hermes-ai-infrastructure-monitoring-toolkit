@@ -1,5 +1,13 @@
 # 🧠 Hermes AI Infrastructure Monitoring Toolkit
 
+![Automation](https://img.shields.io/badge/Hermes-Autonomous-blue)
+![Infrastructure](https://img.shields.io/badge/AI-Infrastructure-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> Autonomous AI infrastructure monitoring with Hermes Agent.  
+> Periodically analyzes AI research and infrastructure costs using scheduled agent workflows.  
+> Designed as a minimal reference for building safe long-running autonomous systems.
+
 ---
 
 A minimal, production-oriented reference implementation of autonomous AI infrastructure monitoring using Hermes Agent.
@@ -13,6 +21,37 @@ This toolkit demonstrates:
 - System-level gateway integration
 
 This repository includes reproducible cron configurations and example report outputs.
+
+![Architecture](system-architecture.png)
+
+---
+
+## ⚡ Quick Start
+
+Install Hermes and launch the system.
+
+```bash
+pip install hermes-agent
+hermes login
+```
+
+Create a workspace:
+
+```bash
+mkdir hermes-ai-monitor
+cd hermes-ai-monitor
+mkdir reports
+```
+
+Start Hermes:
+
+```bash
+hermes chat
+```
+
+Then create the cron jobs described in the full deployment guide.
+
+➡ See [`guide.md`](./guide.md)
 
 ---
 
@@ -99,6 +138,12 @@ For testing:
 - Remove the job immediately
 
 This ensures predictable cost and stable long-term operation.
+
+## 📖 Full Deployment Guide
+
+For a detailed step-by-step guide see:
+
+[guide.md](./guide.md)
 
 ---
 
