@@ -87,6 +87,21 @@ Runs every 12 hours.
 - Calculates estimated cost
 - Generates structured cost report
 
+### 3️⃣ Infrastructure Monitoring Dashboard
+
+Generates an ASCII dashboard summarizing infrastructure trends.
+
+Includes:
+
+- research activity
+- detected infrastructure trends
+- compute risk level
+- latest report status
+
+Output file:
+
+reports/infrastructure_dashboard.md
+
 ---
 
 ## 📦 Folder Structure
