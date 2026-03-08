@@ -131,7 +131,39 @@ Save output to:
 
 ---
 
-# 8. Verify Jobs
+# 8. Create Infrastructure Monitoring Dashboard
+
+Add a third cronjob to generate a monitoring dashboard.
+
+Inside Hermes chat:
+
+```
+Create a cronjob called "AI Infrastructure Monitoring Dashboard".
+
+Run every 360 minutes.
+
+Task:
+Scan the reports directory and generate a summary dashboard of
+detected infrastructure trends.
+
+Include:
+
+total reports analyzed
+
+top infrastructure trends
+
+compute risk level
+
+latest report status
+
+Save output to:
+
+./reports/infrastructure_dashboard.md
+```
+
+---
+
+# 9. Verify Jobs
 
 List scheduled jobs:
 
@@ -155,7 +187,7 @@ Reports will appear in the **reports directory**.
 
 ---
 
-# 9. Production Scheduling Advice
+# 10. Production Scheduling Advice
 
 Autonomous agents can consume credits quickly.
 
