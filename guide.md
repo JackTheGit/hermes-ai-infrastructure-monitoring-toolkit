@@ -1,4 +1,4 @@
-# 🚀 Deploying an Autonomous System with Hermes
+# Deploying an Autonomous System with Hermes
 
 This guide shows how to deploy a small autonomous AI monitoring system using **Hermes Agent**.
 
