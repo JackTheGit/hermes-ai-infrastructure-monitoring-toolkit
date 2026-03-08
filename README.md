@@ -9,11 +9,9 @@
 
 ## Project Status
 
-This project was created for the **Hermes Agent Hackathon (Nous Research)**.
+This project was originally created for the Hermes Agent Hackathon (Nous Research) as a demonstration of autonomous Hermes workflows.
 
 It demonstrates how scheduled Hermes workflows can automate long-running AI infrastructure monitoring.
-
----
 
 > Autonomous AI infrastructure monitoring with Hermes Agent.  
 > Periodically analyzes AI research and infrastructure costs using scheduled agent workflows.  
