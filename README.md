@@ -235,8 +235,9 @@ See `setup.md` for full installation guide.
 
 Production intervals are intentionally conservative:
 
-- **Research Digest** → every 6 hours (360m)
-- **Cost Projection Monitor** → every 12 hours (720m)
+- Research Digest → every 6 hours (360m)
+- Infrastructure Dashboard → every 12 hours (720m)
+- Cost Projection Monitor → every 12 hours (720m)
 
 Avoid short intervals (e.g., 5m) in autonomous mode.  
 High-frequency schedules can rapidly increase token consumption.
