@@ -236,12 +236,6 @@ Runtime reports are written to the `/reports/` directory and are not version-con
 
 ---
 
-## 🚀 Setup
-
-See `setup.md` for full installation guide.
-
----
-
 ## ⚠ Cron Configuration Notes
 
 Production intervals are intentionally conservative:
