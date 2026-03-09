@@ -1,0 +1,4 @@
+# Ignore runtime-generated Hermes reports
+reports/research_digest_*.md
+reports/cost_projection_*.md
+reports/infrastructure_dashboard.md
