@@ -210,7 +210,6 @@ TOTAL KEYWORDS ANALYZED       44       100%
 hermes-ai-infrastructure-monitoring-toolkit/
 
 ├ README.md
-├ setup.md
 ├ architecture.md
 ├ cron-config.md
 ├ guide.md
