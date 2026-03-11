@@ -1,4 +1,3 @@
----
 # AI Infrastructure Monitoring Dashboard
 
 ## Analysis Period
