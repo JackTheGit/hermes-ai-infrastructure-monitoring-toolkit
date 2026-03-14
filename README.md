@@ -1,4 +1,4 @@
-# 🧠 # 🧠 Hermes AI Infrastructure Monitoring Toolkit
+# 🧠 Hermes AI Infrastructure Monitoring Toolkit
 
 ![Automation](https://img.shields.io/badge/Hermes-Autonomous-blue)
 ![Infrastructure](https://img.shields.io/badge/AI-Infrastructure-purple)
