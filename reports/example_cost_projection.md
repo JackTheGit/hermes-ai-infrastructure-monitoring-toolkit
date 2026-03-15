@@ -2,20 +2,20 @@
 Timestamp: example_timestamp
 
 ## Execution Overview
-Daily executions: ~8  
-Monthly executions: ~240  
-Average tokens/run: ~1500  
+Daily executions: ~12  
+Monthly executions: ~360  
+Average tokens/run: ~2000  
 
-Estimated monthly cost: LOW (< $5)
+Estimated monthly cost: LOW (< $5-$10)
 
 ## Token Usage
-Estimated tokens per run: ~1500
+Estimated tokens per run: ~2000
 
-Daily tokens: ~12000  
-Monthly tokens: ~360000  
+Daily tokens: ~16000  
+Monthly tokens: ~480000  
 
 ## Cost Projection
-Estimated monthly cost: LOW (< $5)
+Estimated monthly cost: LOW (< $10)
 
 ## Risk Assessment
 
@@ -27,3 +27,5 @@ Cron schedule intentionally conservative to prevent runaway costs.
 • AI Infrastructure Research Digest (every 6h) → ~4 executions/day  
 • AI Infrastructure Monitoring Dashboard (every 12h) → ~2 executions/day  
 • AI Infrastructure Cost Projection (every 12h) → ~2 executions/day
+• AI Infrastructure Risk Monitor (every 12h) → ~2 executions/day  
+• AI Ecosystem Monitor (every 12h) → ~2 executions/day
