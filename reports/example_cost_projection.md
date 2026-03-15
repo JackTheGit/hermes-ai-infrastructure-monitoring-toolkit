@@ -24,8 +24,8 @@ Cron schedule intentionally conservative to prevent runaway costs.
 
 ## Active Cronjobs Summary
 
-• AI Infrastructure Research Digest (every 6h) → ~4 executions/day  
-• AI Infrastructure Monitoring Dashboard (every 12h) → ~2 executions/day  
-• AI Infrastructure Cost Projection (every 12h) → ~2 executions/day
-• AI Infrastructure Risk Monitor (every 12h) → ~2 executions/day  
-• AI Ecosystem Monitor (every 12h) → ~2 executions/day
+- AI Infrastructure Research Digest (every 6h) → ~4 executions/day  
+- AI Infrastructure Monitoring Dashboard (every 12h) → ~2 executions/day  
+- AI Infrastructure Cost Projection (every 12h) → ~2 executions/day
+- AI Infrastructure Risk Monitor (every 12h) → ~2 executions/day  
+- AI Ecosystem Monitor (every 12h) → ~2 executions/day
