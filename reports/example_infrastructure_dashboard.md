@@ -1,3 +1,4 @@
+```
 # AI Infrastructure Monitoring Dashboard
 
 ## Analysis Period
@@ -282,3 +283,4 @@ Infrastructure teams should monitor/investigate:
 **Analysis Scope**: Infrastructure trend analysis via research digest mining and pattern identification
 **Next Update**: March 18, 2026 (weekly cadence recommended for trend monitoring)
 **Status**: Ready for infrastructure engineering leadership review and prioritization
+```
