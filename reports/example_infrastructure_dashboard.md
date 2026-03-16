@@ -12,7 +12,7 @@ The AI infrastructure landscape is experiencing rapid acceleration in inference 
 
 ## Infrastructure Trend Visualization
 
-Training Efficiency                 ██████████ (100%)
+Training Efficiency                ██████████ (100%)
 Inference Optimization             ████████████ ( 99%)
 Quantization Techniques            ███░░░░░░░ ( 32%)
 GPU Optimization                   ███████░░░ ( 76%)
